@@ -1,0 +1,12 @@
+﻿@model TPPizza.Models.PizzaVM
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.Partial("PizzaForm", Model)
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

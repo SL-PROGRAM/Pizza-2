@@ -1,0 +1,9 @@
+C:\Users\drouxel2020\source\repos\DemoASPnetMVC\TPPizza\BO\BO\bin\Debug\BO.dll
+C:\Users\drouxel2020\source\repos\DemoASPnetMVC\TPPizza\BO\BO\bin\Debug\BO.pdb
+C:\Users\drouxel2020\source\repos\DemoASPnetMVC\TPPizza\BO\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\drouxel2020\source\repos\DemoASPnetMVC\TPPizza\BO\BO\obj\Debug\BO.dll
+C:\Users\drouxel2020\source\repos\DemoASPnetMVC\TPPizza\BO\BO\obj\Debug\BO.pdb
+C:\Users\sleyral2020\source\repos\ASPNET-TPPizza\BO\BO\bin\Debug\BO.dll
+C:\Users\sleyral2020\source\repos\ASPNET-TPPizza\BO\BO\bin\Debug\BO.pdb
+C:\Users\sleyral2020\source\repos\ASPNET-TPPizza\BO\BO\obj\Debug\BO.dll
+C:\Users\sleyral2020\source\repos\ASPNET-TPPizza\BO\BO\obj\Debug\BO.pdb
